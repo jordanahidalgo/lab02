@@ -25,12 +25,12 @@
 * "33" string
 * 3.1415 int. double?
 
-## What would you have to do to add a new field, for example one called name, to a circle object?
+## What would you have to do to add a new field, for example one called name, to a circle object? add a new string to the instance
 
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
 
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
 
-## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
+## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class. it is a class named textbook. some objects are contents, part 1, part 2, etc....
 
-## Can an object have several different classes? Discuss.
+## Can an object have several different classes? Discuss. 
