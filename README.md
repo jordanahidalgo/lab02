@@ -20,21 +20,29 @@ void changeSize(Box box)
 
 ## What are the types of the following values?
 
-* 0 int
-* "hello" string
-* 101 int
-* -1 int
-* true boolean
-* "33" string
-* 3.1415 double
+* 0: int, double, float?
+* "hello": String
+* 101: int, double, float?
+* -1: int, double, float?
+* true: boolean
+* "33": string
+* 3.1415: double, float?
 
 ## What would you have to do to add a new field, for example one called name, to a circle object? 
 You would have to add a new string to the instance
+```
+private String name;
+```
 ## Write the header for a method named send that has one parameter of type String, and does not return a value.
-public void send(String lmao)
+```
+public void send(String lmao1)
+```
 ## Write the header for a method named average that has two parameters, both of type int, and returns an int value.
-public int average(int lol,int kms)
-## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class. 
-It is a class named textbook. Some objects are contents, part 1, part 2, etc....
+```
+public int average(int lol1,int kms2)
+```
+## Look at the book you are reading right now. Is it an object or a class? If it is a class, name some objects. If it is an object, name its class.
+The book is an object of class Book
+Or the book is a class called BlueJBook and the objects are different copies of the book.
 ## Can an object have several different classes? Discuss. 
 Yes and no. An object is under a single class but a class can be inside another class inside another class....
